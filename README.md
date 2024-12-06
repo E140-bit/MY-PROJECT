@@ -1,4 +1,4 @@
-Chatbot Project
+**Chatbot Project**
 This project demonstrates the implementation of a simple rule-based chatbot using Natural Language Processing (NLP) and a neural network model built with TensorFlow. The chatbot is trained to recognize basic intents, such as greetings and farewells, and respond with predefined messages.
 
 Features
